@@ -2,7 +2,7 @@
 <p align="center"> 
  
     
-<a href="https://x.com/Aley_ii?t=KmLbJp811f4JmlUWV92xYQ&s=09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aley_ii" height="30" width="40" /></a>
+<a href="https://x.com/Aley_ii?t=KmLbJp811f4JmlUWV92xYQ&s=09" target="_blank"><img align="center" src="https://pbs.twimg.com/profile_images/1683899100922511378/5lY42eHs_400x400.jpg" alt="Aley_ii" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/ali-mohamed-86313a287" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Mohamed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100036891202197&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ali Mohamed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aley_mohammed?igsh=dDB4eGRzcnhuMnYx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aley_mohammed" height="30" width="40" /></a>
