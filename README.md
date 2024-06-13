@@ -7,7 +7,8 @@
   
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/male-character-sitting-on-chair-and-using-laptop-4634472-3855677.png?f=webp" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+Ali Mohamed here,
+I am student at the Faculty of Artificial Intelligence. I have a great passion for technology and programming, and I am eager to acquire more skills and experience in this rapidly evolving field.
 
 - 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
 - 🔍 I have 2 live apps: 
