@@ -34,3 +34,4 @@ I am a student at the Faculty of Artificial Intelligence. I have a great passion
     <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
    <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cmd"><img src="https://img.shields.io/badge/command%20prompt-%23000.svg?style=for-the-badge&logo=command-prompt&logoColor=white" alt="Command Prompt"></a>
 </p>
+
